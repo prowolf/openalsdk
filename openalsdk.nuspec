@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>openalsdk</id>
+    <version>1.1</version>
+    <packageSourceUrl>https://github.com/prowolf/openalsdk</packageSourceUrl>
+    <owners>ProWolf</owners>
+    <!-- ============================== -->
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <!-- This section is about the software itself -->
+    <title>OpenAL SDK</title>
+    <authors>Creative Technology Limited</authors>
+    <projectUrl>https://www.openal.org/</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/openalsdk.png</iconUrl>-->
+    <copyright>Copyright ©2007 by Creative Technology Limited</copyright>
+    <docsUrl>https://www.openal.org/documentation/</docsUrl>
+    <mailingListUrl>http://openal.org/mailman/listinfo/openal</mailingListUrl>
+    <!--<bugTrackerUrl></bugTrackerUrl>-->
+    <tags>openalsdk openal sdk</tags>
+    <summary>Source Development Kit for the Open Audio Library</summary>
+    <description>Source Development Kit for the Open Audio Library</description>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
+  </files>
+</package>
