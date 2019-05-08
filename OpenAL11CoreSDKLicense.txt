@@ -1,0 +1,117 @@
+==========================================================
+Creative End-User Software License Agreement 
+for Software Development Kit
+Version 4, November 2008
+==========================================================
+
+PLEASE READ THIS DOCUMENT CAREFULLY.  YOU MUST AGREE TO THE TERMS OF THIS AGREEMENT BEFORE USING OR DOWNLOADING THE SOFTWARE AND/OR MANUAL FROM THE INTERNET.  BY USING OR DOWNLOADING THE SOFTWARE AND/OR MANUAL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.  THIS AGREEMENT SHOULD BE PRINTED AND RETAINED FOR REFERENCE.
+
+This is a legal agreement between you ("Licensee") and Creative Technology Ltd. and its subsidiaries ("Creative").  This Agreement states the terms and conditions upon which Creative offers to license the software and/or manual provided or downloaded from this website together with all related documentation and accompanying items including, but not limited to, the executable programs, drivers, libraries and data files associated with such programs (collectively, the "Software").
+
+LICENSE
+1.  Grant of License
+    The Software is licensed, not sold, to you for use only under the terms of this Agreement.  This License Agreement is your proof of license to exercise the rights granted herein and must be retained by you.  As between you and Creative (and, to the extent applicable, its licensors), Creative retains all title to and ownership of the Software and reserves all rights not expressly granted to you.  The license under this Section 1 is conditioned upon your compliance with all of your obligations under this Agreement.  Creative grants to you the right to use all or a portion of this Software provided that:
+    (a) the Software is not distributed for profit;
+    (b) the Software may NOT be modified;
+    (c) all copyright notices are maintained on the Software;
+    (d) the licensee/end-user agrees to be bound by the terms of this Agreement;
+    (e) Creative's BBS/FTP/website are the only on-line sites where Licensee may download electronic files containing the Software; and
+    (f) Licensee shall use the Software solely for the purpose of developing Licensee applications compatible with Creative�s products, unless otherwise agreed to by further written agreement from Creative.
+
+2.  For Use on a Single Computer
+    The Software may be used only on a single computer by a single user at any time.  You may transfer the machine-readable portion of the Software from one computer to another computer, provided that:
+    (a) the Software (including any portion or copy thereof) is erased from the first computer, and
+    (b) there is no possibility that the Software will be used on more than one computer at a time.
+
+3.  Stand-Alone Basis
+    You may use the Software only on a stand-alone basis, such that the Software and the functions it provides are accessible only to persons who are physically present at the location of the computer on which the Software is loaded.  You may not allow the Software or its functions to be accessed remotely, or transmit all or any portion of the Software through any network or communication line.
+
+4.  Copyright
+    The Software is owned by Creative and/or its licensors, and is protected by United States copyright laws and international treaty provisions.  You may not remove the copyright notice from any copy of the Software or any copy of the written materials, if any, accompanying the Software.
+
+5.  One Archival Copy
+    You may make one (1) archival copy of the machine-readable portion of the Software for backup purposes only in support of your use of the Software on a single computer, provided that you reproduce on the copy all copyright and other proprietary rights notices included in the originals of the Software.
+
+6.  Merger or Integration
+    You may merge only the Software code examples provided into or integrate them with, any other program.  Except as set forth in this Section 6, you may not merge or integrate any of the software with any other program, except to the extent expressly permitted by the laws of the jurisdiction where you are located.  Any portion of the Software code examples merged into or integrated with another program, if any, will continue to be subject to the terms and conditions of this Agreement, and you must reproduce on the merged or integrated portion all copyright and other proprietary rights notices included on the originals of the Software.
+
+7.  Not for Use on a Network
+    The Software provided under this Agreement may not be used on a file server or other network device and may not be copied onto multiple systems.
+
+8.  Transfer of License
+    You may not transfer your license of the Software to a third party.
+
+9.  Limitations on Using and Copying the Software
+    Except to the extent expressly permitted by this Agreement or by any other developer agreement agreed to in writing by Creative, you may not use nor copy the Software for any purpose other than software development.  Nor may you sub-license any of your rights under this Agreement.  You may use the Software for your personal use only, and absent a written agreement with Creative to the contrary, not for public performance or for the creation of publicly displayed videotapes.
+
+10. Decompiling, Disassembling, or Reverse Engineering
+    You acknowledge that the Software contains trade secrets and other proprietary information of Creative and its licensors.  Except to the extent expressly permitted by this Agreement or by the laws of the jurisdiction where you are located, you may not decompile, disassemble or otherwise reverse engineer the Software, or engage in any other activities to obtain underlying information that is not visible to the user in connection with normal use of the Software.
+    In particular, you agree not to transmit the Software or display the Software's object code for any purpose on any computer screen or to make any hardcopy memory dumps for any purpose of the Software's object code.  If you believe you require information related to the interoperability of the Software with other programs, you shall not decompile or disassemble the Software to obtain such information, and you agree to request such information from Creative at the address listed below.  Upon receiving such a request, Creative shall determine whether you require such information for a legitimate purpose and, if so, Creative will provide such information to you within a reasonable time and on reasonable conditions.
+    In any event, you will notify Creative of any information derived from reverse engineering or such other activities, and the results thereof will constitute the confidential information of Creative that may be used only in connection with the Software.
+
+TERMINATION
+    The license granted to you is effective until terminated. You may terminate it at any time by destroying the Software (including any portions or copies thereof) currently in your possession or control.  The license will also terminate automatically without any notice from Creative if you fail to comply with any term or condition of this Agreement.  You agree upon any such termination to destroy the Software (including any portions or copies thereof).  Upon termination, Creative may also enforce any and all rights provided by law.  The provisions of this Agreement that protect the proprietary rights of Creative will continue in force after termination.
+
+NO WARRANTY
+    ANY USE BY YOU OF THE SOFTWARE IS AT YOUR OWN RISK. THE SOFTWARE IS PROVIDED FOR USE ONLY WITH CREATIVE'S HARDWARE AND RELATED SOFTWARE. THE  SOFTWARE IS PROVIDED FOR USE "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE  MAXIMUM EXTENT PERMITTED BY LAW, CREATIVE DISCLAIMS ALL WARRANTIES OF  ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED  WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR  PURPOSE, TITLE OR NONINFRINGEMENT.  CREATIVE IS NOT OBLIGATED TO PROVIDE ANY UPDATES OR UPGRADES TO THE SOFTWARE.
+
+    No distributor, dealer or any other entity or person is authorized to expand or alter this warranty or any other provisions of this Agreement.  Creative does not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be uninterrupted, error-free, or free from malicious code.  For purposes of this paragraph, �malicious code� means any program code designed to contaminate other computer programs or computer data, consume computer resources, modify, destroy, record, or transmit data, or in some other fashion usurp the normal operation of the computer, computer system, or computer network, including viruses, Trojan horses, droppers, worms, spyware, logic bombs, and the like.
+
+    Further, Creative shall not be liable for the accuracy of any information provided by Creative or third-party technical support personnel, or any damages caused, either directly or indirectly, by acts taken or omissions made by you as a result of such technical support.
+
+    Any representation, other than the warranties set forth in this Agreement, will not bind Creative.  You assume full responsibility for the selection of the Software to achieve your intended results, and for the downloading, use and results obtained from the Software.  You also assume the entire risk as it applies to the quality and performance of the Software.  Should the Software prove defective, you (and not Creative, or its distributors or dealers) assume the entire liability of any and all necessary servicing, repair or correction.
+
+    This warranty gives you specific legal rights, and you may also have other rights, which vary from country/state to country/state.  Some countries/states do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.  Creative disclaims all warranties of any kind if the Software was customized, repackaged, or altered in any way by any third party other than Creative.
+
+    IN NO EVENT WILL CREATIVE'S LIABILITY TO YOU OR ANY OTHER PERSON EVER EXCEED THE AMOUNT PAID BY YOU TO USE THE SOFTWARE, REGARDLESS OF THE FORM OF THE CLAIM.
+
+NO LIABILITY FOR DAMAGES, INCLUDING WITHOUT LIMITATION CONSEQUENTIAL DAMAGES
+    In no event shall Creative or its Licensor's be liable for any damages whatsoever (including, without limitation, incidental, direct, indirect, special or consequential damages, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use or inability to use this Software, even if Creative or its Licensor's have been advised of the possibility of such damages.  Because some states/ countries do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+
+INDEMNIFICATION BY YOU
+    If you distribute the Software in violation of this Agreement, you hereby indemnify, hold harmless and defend Creative from and against any and all claims or lawsuits, including attorney's fees and costs that arise, result from, or are connected with the use or distribution of the Software in violation of this Agreement.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS
+    All Software and related documentation are provided with restricted rights.  Use, duplication or disclosure by the U.S. Government is subject to restrictions as set forth in subdivision (b)(3)(ii) of the Rights in Technical Data and Computer Software Clause at 252.227-7013.  If you are sub-licensing or using the Software outside of the United States, you will comply with the applicable local laws of your country, U.S. export control law, and the English version of this Agreement.
+
+CONTRACTOR/MANUFACTURER
+    The Contractor/Manufacturer for the Software is:
+
+Creative Technology Ltd.
+31 International Business Park
+Creative Resource
+Singapore 609921
+
+Safety & Regulatory Information
+The following sections contain notices for various countries:
+
+CAUTION: This device is intended to be connected by the user to a CSA/TUV/UL certified/listed IBM AT or compatible personal computers in the manufacturer's defined operator access area.  Check the equipment operating/installation manual and/or with the equipment manufacturer to verify/confirm if your equipment is suitable for devices to be connected to it.
+ATTENTION: Ce p�riph�rique est destin� � �tre connect� par l'utilisateur � un ordinateur IBM AT certifi� ou list� CSA/TUV/UL ou compatible, � l'int�rieur de la zone d'acc�s d�finie par le fabricant.  Consulter le mode d'emploi/guide d'installation et/ou le fabricant de l'appareil pour v�rifier ou confirmer qu'il est possible de connecter d'autres p�riph�riques � votre syst�me.
+
+GENERAL
+    This Agreement is binding on you as well as your employees, employers, contractors and agents, and on any successors and assignees.  Neither the Software nor any information derived therefrom may be exported except in accordance with the laws of the U.S. or other applicable provisions.  This Agreement is governed by the laws of the State of California (except to the extent federal law governs copyrights and federally registered trademarks).  This Agreement is the entire agreement between us relating to the subject matter hereof, and you agree that Creative will not have any liability for any untrue statement or representation made by it, its agents or anyone else (whether innocently or negligently) upon which you relied upon entering this Agreement, unless such untrue statement or representation was made fraudulently.  This Agreement supersedes any other understandings or agreements, including, but not limited to, advertising, with respect to the Software.
+
+    If any provision of this Agreement is deemed invalid or unenforceable by any country or government agency having jurisdiction, that particular provision will be deemed modified to the extent necessary to make the provision valid and enforceable, and the remaining provisions will remain in full force and effect.  
+
+    Failure to enforce any rights hereunder, irrespective of the length of time for which such failure continues, shall not constitute a waiver of those rights in the future or any other rights and any waiver shall be set forth in writing and signed by the waiving party.
+
+    For questions concerning this Agreement, please contact Creative at the address stated above.  For questions on product or technical matters, contact the Creative technical support center nearest you.
+
+SPECIAL PROVISIONS APPLICABLE TO THE EUROPEAN UNION
+==========================================================
+    If you downloaded the Software in the European Union (EU), the following provisions also apply to you.  If there is any inconsistency between the terms of the Software License Agreement set out above and the following provisions, the following provisions shall take precedence.
+
+Decompilation:
+    You agree not for any purpose to transmit the Software or display the Software's object code on any computer screen or to make any hard copy memory dumps of the Software's object code.  If you believe you require information related to the interoperability of the Software with other programs, you shall not decompile or disassemble the Software to obtain such information, and you agree to request such information from Creative at the address listed above.  Upon receiving such a request, Creative shall determine whether you require such information for a legitimate purpose and, if so, Creative will provide such information to you within a reasonable time and on reasonable conditions.
+
+Limited Warranty:
+    EXCEPT AS STATED ABOVE IN THIS AGREEMENT, AND AS PROVIDED BELOW UNDER THE HEADING "STATUTORY RIGHTS," THE SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Limitation of Remedy and Damages:
+    THE LIMITATIONS OF REMEDIES AND DAMAGES IN THE SOFTWARE LICENSE AGREEMENT SHALL NOT APPLY TO PERSONAL INJURY (INCLUDING DEATH) TO ANY PERSON CAUSED BY CREATIVE'S NEGLIGENCE AND ARE SUBJECT TO THE PROVISION SET OUT BELOW UNDER THE HEADING "STATUTORY RIGHTS."
+
+Irish Statutory rights:
+    Irish law provides that certain conditions and warranties may be implied in contracts for the sale of goods and in contracts for the supply of services.  Such conditions and warranties are hereby excluded, to the extent such exclusion, in the context of this transaction, is lawful under Irish law.  Conversely, such conditions and warranties, insofar as they may not be lawfully excluded, shall apply.  Accordingly, nothing in this Agreement shall prejudice any rights that you may enjoy by virtue of Sections 12, 13, 14 or 15 of the Irish Sale of Goods Act 1893 (as amended).
+
+General:
+    This Agreement is governed by the laws of the Republic of Ireland.  The local language version of this agreement shall apply to Software downloaded in the EU.  This Agreement is the entire agreement between us and you agree that Creative will not have any liability for any untrue statement or representation made by it, its agents or anyone else (whether innocently or negligently) upon which you relied upon entering this Agreement, unless such untrue statement or representation was made fraudulently.
